@@ -1,2 +1,2 @@
-# Ukraine_Dashboard
-Ukraine Development Indicators
+# Python Dashboard with Plotly and Dash
+Ukraine Development Indicators Dashboard
