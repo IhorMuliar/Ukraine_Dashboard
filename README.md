@@ -1,7 +1,7 @@
 # Python Dashboard with Plotly and Dash
 Ukraine Development Indicators Dashboard
 
-## plotly
+## Plotly
 >https://github.com/plotly/documentation
 
 # Plotly's github-pages api documentation repository
